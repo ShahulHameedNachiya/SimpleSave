@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Simple Save</string>
+    <string name="checkbox">checked</string>
 </resources>
